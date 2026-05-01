@@ -127,8 +127,8 @@ Grizzly Hacks III — solving real-world problems for farmers with simple, effec
 
 ## 📌 Demo
 
-(Attach your demo video link here)
-
+[(Attach your demo video link here)
+](https://youtu.be/M3nYjSsp7EU)
 ---
 
 ## 🧬 Final Note
